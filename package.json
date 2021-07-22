@@ -1,0 +1,9 @@
+{
+  "name": "microservice",
+  "version": "1.0.0",
+  "main": "microservice.js",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1"
+  }
+}
